@@ -5,3 +5,5 @@ TODO: This section of the README should be updated to contain a high level descr
 
 
 Change after git config
+
+Change as Martin?
